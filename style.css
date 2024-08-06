@@ -1,0 +1,122 @@
+head, body {
+    background-color: rgb(220, 203, 177);
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.menu_2, .menu_3, .menu_4{
+    padding: 10px;
+    border: 2px solid rgb(16, 16, 41);
+    border-left: 1px solid rgb(16, 16, 41);
+    border-right: 1px solid rgb(16, 16, 41);
+    
+}
+
+.menu_1 {
+    padding: 10px;
+    border: 2px solid rgb(16, 16, 41);
+    border-right: 1px solid rgb(16, 16, 41);
+    
+}
+
+.menu_5 {
+    padding: 10px;
+    border: 2px solid rgb(16, 16, 41);
+    border-left: 1px solid rgb(16, 16, 41);
+}
+
+
+.clicked {
+    background-color: rgb(212, 184, 142);
+}
+
+.img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.new {
+    border: 3px;
+    background-color: rgb(16, 16, 41);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new_books {
+    border: 2px;
+    color: aliceblue;
+    width: 100%;
+}
+
+.pic {
+    height: 125px;
+    padding-top: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+.category {
+    border: 2px solid rgb(16, 16, 41);
+    margin: 5px;
+    width: 500px;
+    height: 215px;
+    margin-right: 30px;
+}
+
+.subcategory {
+    border: 2px solid rgb(16, 16, 41);
+    margin: 5px;
+    width: 300px;
+    height: 550px;
+}
+
+.cat1, .cat2, .cat3, .cat4 {
+    background-color: rgb(220, 203, 177);
+    font-size: 2.0em;
+    border: 0px;
+    width: 500px;
+    display: flex;
+    justify-content: left;
+}
+
+
+hr {
+    border: none;  
+    color: black; 
+    background-color: black;
+    height: 2px; 
+   }
+
+h4 {
+    font-size: 2.0em;
+}
+
+.change_cat_col {
+    background-color: rgb(212, 184, 142);
+}
+
+.subcat1_1, .subcat1_2, .subcat1_3 {
+    background-color: rgb(220, 203, 177);
+    font-size: 2.0em;
+    border: 0px;
+    width: 300px;
+    display: flex;
+    justify-content: left;
+}
+
+.img1 {
+    height: 100px;
+    
+}
