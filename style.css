@@ -55,7 +55,7 @@ head, body {
 .new_books {
     border: 2px;
     color: aliceblue;
-    width: 100%;
+    width: 100%; 
 }
 
 .pic {
@@ -107,7 +107,7 @@ h4 {
     background-color: rgb(212, 184, 142);
 }
 
-.subcat1_1, .subcat1_2, .subcat1_3 {
+.subcats {
     background-color: rgb(220, 203, 177);
     font-size: 2.0em;
     border: 0px;
@@ -118,5 +118,250 @@ h4 {
 
 .img1 {
     height: 100px;
+    padding-top: 20px;
+}
+
+.product {
+    display: flex;
     
+}
+
+.div_1234 {
+    width: 150px;
+    margin: 15px;
+}
+
+.main_card {
+    display: flex;
+    width: 100%;
+    height: 550px;
+}
+
+.main_photo {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 350px;
+    height: 441.66px;
+}
+
+.main_div {
+    margin-top: 50px;
+    padding-left: 15px;
+    border: 5px solid rgb(8, 8, 67);
+    width: 750px;
+}
+
+.main_2text {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.math1_1_card {
+    display: flex;
+    width: 100%;
+    height: 550px;
+}
+
+.math1_1_photo {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 350px;
+    height: 441.66px;
+}
+
+.math1_1_div {
+    margin-top: 50px;
+    padding-left: 15px;
+    border: 5px solid rgb(8, 8, 67);
+    width: 750px;
+}
+
+.math1_1_2text {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.math1_2_card {
+    display: flex;
+    width: 100%;
+    height: 550px;
+}
+
+.math1_2_photo {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 350px;
+    height: 441.66px;
+}
+
+.math1_2_div {
+    margin-top: 50px;
+    padding-left: 15px;
+    border: 5px solid rgb(8, 8, 67);
+    width: 750px;
+}
+
+.math1_2_2text {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.chtenie1_1_card {
+    display: flex;
+    width: 100%;
+    height: 550px;
+}
+
+.chtenie1_1_photo {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 350px;
+    height: 441.66px;
+}
+
+.chtenie1_1_div {
+    margin-top: 50px;
+    padding-left: 15px;
+    border: 5px solid rgb(8, 8, 67);
+    width: 750px;
+}
+
+.chtenie1_1_2text {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.heart {
+    margin-top: 5px;
+    width: 70px;
+}
+
+.buy {
+    margin-right: 50px;
+    margin-bottom: 1px;
+    width: 500px;
+    height: 120px;
+    font-size: 3em;
+    color: aliceblue;
+    background-color: rgb(8, 8, 67);
+}
+
+.no {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.cont_div {
+    width: 1250px;
+    margin-top: 50px;
+}
+
+.conts_h1 {
+    font-size: 2.5em;
+    display: flex;
+    justify-content: center;
+    color: rgb(8, 8, 67);
+}
+
+.div_v_div {
+    margin-top: 50px;
+    margin-left: 225px;
+    padding-left: 10px;
+    width: 800px;
+    border: 5px solid black;
+    background-color: rgb(196, 168, 130);
+}
+
+.just_div {
+    display: flex;
+    align-items: flex-start;
+}
+
+.product_buy {
+    margin-bottom: 20px;
+}
+
+.products_buy {
+    display: flex;
+    justify-content: center;
+    padding-right: 5px;
+    margin-right: 20px;
+}
+
+.result_buy {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.liked_div {
+    background-color: aliceblue;
+    margin-left: 25px;
+    width: 800px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.img1_buy {
+    height: 150px;
+    padding: 20px;
+}
+
+.buy_name {
+    margin-right: 50px;
+}
+
+.div_buy {
+    display: flex;
+    width: 300px;
+}
+
+.prod_menu {
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(196, 168, 130);
+    margin-right: 20px;
+}
+
+.prod_menu1 {
+    margin-top: 20px;
+    height: 30px;
+    background-color: rgb(196, 168, 130);
+    margin-right: 20px;
+}
+
+.red_btn {
+    color: darkred;
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+
+.res_texts {
+    margin-left: 25px;
+}
+
+.zakazat {
+    margin-top: 100px;
+    margin-left: 25px;
+    width: 450px;
+    height: 100px;
+    font-size: 2em;
+    background-color: rgb(196, 168, 130);
 }
